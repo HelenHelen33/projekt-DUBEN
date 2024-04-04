@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+header,
+main,
+footer,
+.cerveny {
+    background-color: pink;
+}
+footer {
+    height: 40px;
+    width: 100px;
+    padding: 10px;
+    border: 3px dotted pink;
+    background-color: aqua;
+}
